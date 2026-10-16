@@ -4,9 +4,8 @@ summary: Miniproject from the SMPC course
 date: 2027-01-09
 # image: /assets/img/example-project.png   # add a screenshot at this path, then remove the leading #
 image_alt: Screenshot of the main game screen
-team: 4 people
-role: yada
-engine: Unity, C#
+team: Solo project
+engine: TBD
 tags: [Unity, Card game, Team project]
 # play: /builds/example/index.html
 # repo: https://github.com/MatteThisen/example-project
@@ -15,10 +14,6 @@ tags: [Unity, Card game, Team project]
 ## Overview
 
 What is the game, who is it for, and what was the assignment?
-
-## My contribution
-
-What did you personally design or build? Be specific: systems, levels, balancing, UI, tools.
 
 ## Design process
 
