@@ -5,6 +5,7 @@ date: 2027-01-09
 # image: /assets/img/example-project.png   # add a screenshot at this path, then remove the leading #
 image_alt: Screenshot of the main game screen
 team: 4 people
+role: yada
 engine: Unity, C#
 tags: [Unity, Card game, Team project]
 # play: /builds/example/index.html
