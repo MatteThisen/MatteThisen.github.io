@@ -11,7 +11,7 @@ Write a few sentences about yourself here: what you study, what kind of games yo
 
 ## Contact
 
-- Email: your.email@example.com
+- Email: mathiaskofoedhansen@gmail.com
 - GitHub: [MatteThisen](https://github.com/MatteThisen)
 
 </div>
