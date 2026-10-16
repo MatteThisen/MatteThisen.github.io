@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<article class="project">
+  <p class="back"><a href="{{ '/projects/' | relative_url }}">All projects</a></p>
+  <h1>{{ page.title }}</h1>
+  {% if page.summary %}<p class="lead">{{ page.summary }}</p>{% endif %}
+
+  {% if page.image %}
+    <img class="hero-img" src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title }}">
+  {% endif %}
+
+  <dl class="facts">
+    {% if page.date %}<div><dt>Year</dt><dd>{{ page.date | date: "%Y" }}</dd></div>{% endif %}
+    {% if page.role %}<div><dt>My role</dt><dd>{{ page.role }}</dd></div>{% endif %}
+    {% if page.team %}<div><dt>Team</dt><dd>{{ page.team }}</dd></div>{% endif %}
+    {% if page.engine %}<div><dt>Made with</dt><dd>{{ page.engine }}</dd></div>{% endif %}
+    {% if page.play %}<div><dt>Play it</dt><dd><a href="{{ page.play }}">Open the build</a></dd></div>{% endif %}
+    {% if page.repo %}<div><dt>Source</dt><dd><a href="{{ page.repo }}">View on GitHub</a></dd></div>{% endif %}
+  </dl>
+
+  <div class="prose">
+    {{ content }}
+  </div>
+</article>
