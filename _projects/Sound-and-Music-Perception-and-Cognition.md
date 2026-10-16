@@ -1,10 +1,9 @@
 ---
-title: Example Project
-summary: One sentence that says what the game is and what makes it interesting.
-date: 2026-09-01
+title: Sound and Music Perception and Cognition
+summary: Miniproject from the SMPC course
+date: 2027-01-09
 # image: /assets/img/example-project.png   # add a screenshot at this path, then remove the leading #
 image_alt: Screenshot of the main game screen
-role: Game designer and programmer
 team: 4 people
 engine: Unity, C#
 tags: [Unity, Card game, Team project]
