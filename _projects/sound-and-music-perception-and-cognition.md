@@ -6,7 +6,7 @@ date: 2027-01-09
 image_alt: Screenshot of the main game screen
 team: Solo project
 engine: TBD
-tags: [Unity, Card game, Team project]
+tags: [Solo project]
 # play: /builds/example/index.html
 # repo: https://github.com/MatteThisen/example-project
 ---
