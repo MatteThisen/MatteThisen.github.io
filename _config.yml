@@ -1,2 +1,17 @@
 title: My University Projects
-theme: minima
+description: Game design student. A collection of my university projects.
+
+exclude:
+  - README.md
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
