@@ -4,6 +4,8 @@ description: Game design student. A collection of my university projects.
 exclude:
   - README.md
 
+future: true
+
 collections:
   projects:
     output: true
